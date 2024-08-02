@@ -1,2 +1,2 @@
 ## Infrastructure Diagram
-![testapp0-infra](https://github.com/user-attachments/assets/40c0e6b4-b470-49b3-8041-aeb63e6c35ae)
+![basic-infra-ec2-app-tf-diagram](https://github.com/user-attachments/assets/fe58058b-10e7-4ab6-806e-1d879cde3a3e)
